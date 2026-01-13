@@ -1,0 +1,47 @@
+4
+Guji
+weeb songs
+media/album0.jpg
+4
+nyanpasu
+songs/nyanpasu.wav
+timothy
+songs/timothy.wav
+ice cream song
+songs/icecream.wav
+anya
+songs/anya.wav
+xxxtentacion
+?
+media/album1.jpg
+2
+sad
+songs/sad.wav
+changes
+songs/changes.wav
+YOASOBI
+The Book 2
+media/album2.jpg
+8
+life
+songs/life.wav
+tsubame
+songs/tsubame.wav
+romance
+songs/romance.wav
+wish
+songs/wish.wav
+just a little step
+songs/step.wav
+halzion
+songs/halzion.wav
+probably
+songs/probably.wav
+monster
+songs/monster.wav
+Yeltsa Kcir
+Whenever You Need Somebody
+media/album3.jpg
+1
+Rolling
+songs/rolling.wav
